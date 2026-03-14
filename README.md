@@ -2,7 +2,9 @@
 
 > Real-time price comparison of top Chinese 3D printing brands between China (JD/Taobao) and USA (Amazon/Official Store).
 
-**Why this exists:** The same printer made in China can cost 2–3× more in the USA. This repo tracks the gap — updated regularly.
+**Why this exists:** 3D printing is booming — but most people in the US don't know what these machines and materials actually cost in China, where they're made. This project exists to bridge that information gap, so makers, hobbyists, and businesses in the US can make better-informed decisions about their purchases, budgets, and projects.
+
+Whether you're planning to buy your first printer, sourcing filament in bulk, or just curious why your Bambu Lab spool costs twice as much as it does in China — this is for you.
 
 ---
 
