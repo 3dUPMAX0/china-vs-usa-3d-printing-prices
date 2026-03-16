@@ -12,14 +12,14 @@ Last updated: 2026-03 | Exchange rate: 1 USD = 7.25 CNY
 
 > Note: eufyMake E1 launched in China March 2026. US pricing TBD.
 
-## Filament (1kg spool)
+## Filament (1kg spool) — 实际到手价
 
-| Type | China (¥) | China USD eq. | USA Amazon ($) | Markup |
-|------|----------|---------------|----------------|--------|
-| PLA | 89 | 12 | 26 | +117% |
-| PLA+ | 99 | 14 | 29 | +107% |
-| PETG | 109 | 15 | 32 | +113% |
+| Type | China 到手 (¥) | China USD eq. | USA Amazon ($) | Markup |
+|------|---------------|---------------|----------------|--------|
+| PLA+ | — | — | 17.00 | — |
+
+> AnkerMake 耗材在中国大陆未正式销售。2025年已宣布停产3D打印机产品线，耗材在美国也在清库存阶段，品牌转为 eufyMake。仅剩 PLA+ 在 Amazon 有售（2kg装 $34，折合 $17/kg）。
 
 ## Sources
-- China: https://www.anker.com.cn / JD.com
-- USA: https://www.amazon.com / https://www.ankermake.com
+- China: 国内无售
+- USA: https://www.amazon.com (清库存价)

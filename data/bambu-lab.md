@@ -16,19 +16,22 @@ Last updated: 2026-03 | Exchange rate: 1 USD = 7.25 CNY
 | X1C Combo | 5,999 | 827 | 1,449 | 1,449 | +75% |
 | H2D | TBD | - | TBD | - | - |
 
-## Filament (1kg spool)
+## Filament (1kg spool) — 实际到手价
 
-| Type | China JD (¥) | China USD eq. | USA Official ($) | Markup |
-|------|-------------|---------------|-----------------|--------|
-| PLA Basic | 79 | 11 | 24 | +118% |
-| PLA Matte | 99 | 14 | 28 | +100% |
-| PLA Silk | 99 | 14 | 28 | +100% |
-| PETG Basic | 99 | 14 | 28 | +100% |
-| ABS | 99 | 14 | 28 | +100% |
-| TPU | 129 | 18 | 35 | +94% |
+| Type | China 到手 (¥) | China USD eq. | USA ($) | Markup |
+|------|---------------|---------------|---------|--------|
+| PLA Lite | 43 | 6 | — | — |
+| PLA Basic | 59 | 8 | 19.99 | +146% |
+| PLA Matte | 75 | 10 | 19.99 | +93% |
+| PETG Basic | 72 | 10 | 19.99 | +101% |
+| PETG HF | 55 | 8 | 19.99 | +163% |
+| ABS | 79 | 11 | 19.99 | +83% |
+| TPU 95A | 62 | 9 | 29.99 | +251% |
 | PA (Nylon) | 199 | 27 | 50 | +85% |
 | Support (PLA) | 89 | 12 | 26 | +117% |
 
+> PLA Lite 为国内专供入门款，美国无售。中国到手价含多件折扣/百亿补贴。
+
 ## Sources
-- China: https://item.jd.com (Bambu Lab official JD store)
+- China: JD/天猫/拼多多 实际到手价 (via 什么值得买)
 - USA: https://us.store.bambulab.com

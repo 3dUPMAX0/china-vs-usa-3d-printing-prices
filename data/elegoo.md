@@ -28,6 +28,16 @@ Last updated: 2026-03 | Exchange rate: 1 USD = 7.25 CNY
 | ABS-Like Resin | 79 | 11 | 25 | +127% |
 | Water Wash Resin | 89 | 12 | 28 | +133% |
 
+## Filament (1kg spool) — 实际到手价
+
+| Type | China 到手 (¥) | China USD eq. | USA Amazon ($) | Markup |
+|------|---------------|---------------|----------------|--------|
+| PLA | 59 | 8 | 13.99 | +72% |
+| PLA+ (Rapid) | 69 | 10 | 15.99 | +68% |
+| PETG (Rapid) | 45 | 6 | 17.99 | +190% |
+| ABS | 65 | 9 | 16.99 | +89% |
+| TPU 95A | 75 | 10 | 21.99 | +113% |
+
 ## Sources
-- China: https://www.elegoo.com.cn
-- USA: https://www.amazon.com / https://www.elegoo.com
+- China: JD/天猫 实际到手价 (via 什么值得买)
+- USA: https://www.amazon.com / https://us.elegoo.com
