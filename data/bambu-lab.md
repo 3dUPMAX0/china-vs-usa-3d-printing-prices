@@ -42,6 +42,62 @@ Last updated: 2026-03-21 | Exchange rate: 1 USD = 6.9 CNY
 > PLA Lite 为国内专供入门款，美国无售。中国到手价含多件折扣/百亿补贴。
 > 美国 10 卷以上批量价 $12.99/卷（基础款 refill）。
 
+## Price History
+
+### Printers — China JD (¥)
+
+| Model | Mar 15 | Mar 21 | Change |
+|-------|--------|--------|--------|
+| A1 mini | 1,699 | 1,699 | — |
+| A1 | 2,199 | 2,199 | — |
+| P1S | 3,999 | 3,999 | — |
+| P1S Combo | 4,999 | 4,999 | — |
+| X1C | 4,999 | 4,999 | — |
+| P2S | — | TBD | NEW |
+| H2S | — | TBD | NEW |
+| H2D | — | TBD | NEW |
+| H2C | — | TBD | NEW |
+
+### Printers — USA ($)
+
+| Model | Mar 15 | Mar 21 | Change |
+|-------|--------|--------|--------|
+| A1 mini | 299 | 299 | — |
+| A1 | 399 | 399 | — |
+| P1S | 699 | 699 | — |
+| X1C | 1,199 | ~~下架~~ | 被 P2S/H 系列替代 |
+| P2S | — | 549 | NEW |
+| H2S | — | 1,249 | NEW |
+| H2D | — | 1,749 | NEW |
+| H2C | — | 2,399 | NEW |
+
+### Filament — China 到手价 (¥/kg)
+
+| Type | Mar 15 (JD官方) | Mar 16 (到手价) | Mar 21 | Change |
+|------|----------------|----------------|--------|--------|
+| PLA Basic | 79 | 59 | 59 | -25% (切换到手价) |
+| PLA Matte | 99 | 75 | 75 | -24% |
+| PETG Basic | 99 | 72 | 72 | -27% |
+| ABS | 99 | 79 | 79 | -20% |
+| TPU | 129 | 62 | 62 | -52% |
+
+### Filament — USA ($/kg)
+
+| Type | Mar 15 | Mar 16 | Mar 21 | Change |
+|------|--------|--------|--------|--------|
+| PLA Basic | 24.00 | 19.99 | 19.99 | -17% |
+| PLA Matte | 28.00 | 19.99 | 19.99 | -29% |
+| PETG Basic | 28.00 | 19.99 | 19.99 | -29% |
+| ABS | 28.00 | 19.99 | 19.99 | -29% |
+| TPU | 35.00 | 29.99 | 34.99 | — |
+
+### Exchange Rate
+
+| Date | Rate (CNY/USD) |
+|------|---------------|
+| Mar 15 | 7.25 |
+| Mar 21 | 6.90 |
+
 ## Sources
 - China: JD/天猫/拼多多 实际到手价 (via 什么值得买)
 - USA: https://us.store.bambulab.com

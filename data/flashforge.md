@@ -33,6 +33,47 @@ Last updated: 2026-03-21 | Exchange rate: 1 USD = 6.9 CNY
 > 闪铸耗材国内偏贵（PLA ~¥100 vs 拓竹 ¥59），但 ABS/PETG 美国价格较低。
 > 国内淘宝第三方 PLA 低至 ¥40-65/kg。
 
+## Price History
+
+### Consumer Printers — China (¥)
+
+| Model | Mar 15 | Mar 21 | Change |
+|-------|--------|--------|--------|
+| Adventurer 5M | 1,999 | 1,799 | -10% ⬇️ |
+| Adventurer 5M Pro | 2,599 | 2,999 | +15% ⬆️ |
+
+### Consumer Printers — USA ($)
+
+| Model | Mar 15 | Mar 21 Official | Mar 21 Amazon | Change |
+|-------|--------|-----------------|---------------|--------|
+| Adventurer 5M | 399 | 399 | 239 | Amazon -40% ⬇️ |
+| Adventurer 5M Pro | 499 | 599 | 449 | Amazon -10% ⬇️ |
+
+### Industrial Printers (数据修正)
+
+| Model | Mar 15 (有误) | Mar 21 (修正) | Note |
+|-------|-------------|-------------|------|
+| Creator 4S CN | ¥5,999 | ~¥55,000 | 初始数据为消费级估价，实际为工业报价 |
+| Creator 4S US | $1,299 | $12,900 | 同上 |
+| Guider 3 Plus CN | ¥8,999 | ~¥55,000 | 同上 |
+| Guider 3 Plus US | $1,999 | $3,400 | 修正 |
+
+### Filament — China (¥/kg)
+
+| Type | Mar 15 | Mar 16 (到手价) | Mar 21 | Change |
+|------|--------|----------------|--------|--------|
+| PLA | 79 | 86 | 100 | +27% ⬆️ |
+| ABS | 89 | 89 | 89 | — |
+| PETG | 99 | 99 | 99 | — |
+
+### Filament — USA ($/kg)
+
+| Type | Mar 15 | Mar 16 | Mar 21 | Change |
+|------|--------|--------|--------|--------|
+| PLA | 25.00 | 17.59 | 25.99 | +4% |
+| ABS | 28.00 | 17.58 | 17.58 | -37% ⬇️ |
+| PETG | 30.00 | 20.99 | 17.58 | -41% ⬇️ |
+
 ## Sources
 - China: JD/天猫 (via 什么值得买)
 - USA: https://www.flashforge.com / https://www.amazon.com

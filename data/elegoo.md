@@ -49,6 +49,67 @@ Last updated: 2026-03-21 | Exchange rate: 1 USD = 6.9 CNY
 | ABS | 69 | 10 | 18.99 | +90% |
 | TPU 95A | 62 | 9 | 17.99 | +100% |
 
+## Price History
+
+### Resin Printers — China (¥)
+
+| Model | Mar 15 | Mar 21 | Change |
+|-------|--------|--------|--------|
+| Mars 5 Ultra | 999 | 1,899 | +90% ⬆️ (初始数据有误) |
+| Saturn 4 | 1,999 | 2,099 | +5% |
+| Saturn 4 Ultra | 2,999 | 2,599 | -13% ⬇️ |
+| Saturn 4 Ultra 16K | — | 3,699 | NEW |
+| Jupiter 2 | 4,999 | — | 未开售 |
+| Jupiter SE | — | 4,199 | NEW |
+
+### Resin Printers — USA ($)
+
+| Model | Mar 15 | Mar 21 | Change |
+|-------|--------|--------|--------|
+| Mars 5 | — | 184 | NEW |
+| Mars 5 Ultra | 199 | 269 | +35% ⬆️ |
+| Saturn 4 | 399 | 319 | -20% ⬇️ |
+| Saturn 4 Ultra | 599 | 399 | -33% ⬇️ |
+| Saturn 4 Ultra 16K | — | 499 | NEW |
+| Jupiter 2 | 999 | — | 未开售 |
+| Jupiter SE | — | 690 | NEW |
+
+### FDM Printers — China (¥)
+
+| Model | Mar 15 | Mar 21 | Change |
+|-------|--------|--------|--------|
+| Neptune 4 | 999 | 1,399 | +40% ⬆️ (修正数据) |
+| Neptune 4 Pro | 1,299 | 1,599 | +23% ⬆️ |
+| Neptune 4 Max | 1,799 | 2,149 | +19% ⬆️ |
+| Neptune 4 Plus | 1,499 | 1,999 | +33% ⬆️ |
+
+### FDM Printers — USA ($)
+
+| Model | Mar 15 | Mar 21 | Change |
+|-------|--------|--------|--------|
+| Neptune 4 | 169 | 225 | +33% ⬆️ |
+| Neptune 4 Pro | 229 | 229 | — |
+| Neptune 4 Max | 329 | 389 | +18% ⬆️ |
+| Neptune 4 Plus | 289 | 309 | +7% |
+
+### Resin — China (¥)
+
+| Type | Mar 15 (500ml) | Mar 21 (1kg) | Note |
+|------|---------------|-------------|------|
+| Standard | 59 | 65 | 改为 1kg 计价 |
+| ABS-Like | 79 | 99 | 改为 1kg 计价 |
+| Water Wash | 89 | 99 | 改为 1kg 计价 |
+
+### Filament — China (¥/kg)
+
+| Type | Mar 15 | Mar 16 (到手价) | Mar 21 | Change |
+|------|--------|----------------|--------|--------|
+| PLA | — | 59 | 59 | — |
+| PLA+ | — | 69 | 75 | +9% |
+| PETG | — | 45 | 53 | +18% |
+| ABS | — | 65 | 69 | +6% |
+| TPU 95A | — | 75 | 62 | -17% ⬇️ |
+
 ## Sources
 - China: JD/天猫 实际到手价 (via 什么值得买)
 - USA: https://us.elegoo.com / https://www.amazon.com
