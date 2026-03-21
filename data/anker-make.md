@@ -1,25 +1,37 @@
 # AnkerMake 安克 — Price Comparison
 
-Last updated: 2026-03 | Exchange rate: 1 USD = 7.25 CNY
+Last updated: 2026-03-21 | Exchange rate: 1 USD = 6.9 CNY
 
-## Printers
+## ⚠️ AnkerMake 已退出 FDM 3D打印市场
 
-| Model | China (¥) | China USD eq. | USA Amazon ($) | Markup |
-|-------|----------|---------------|----------------|--------|
-| M5C | 1,999 | 276 | 399 | +45% |
-| M5 | 2,999 | 414 | 599 | +45% |
-| eufyMake E1 | 13,999 | 1,931 | TBD | - |
+Anker 于 2025 年宣布停产所有 FDM 3D打印机，品牌转型为 eufyMake，专注 UV 表面打印。
 
-> Note: eufyMake E1 launched in China March 2026. US pricing TBD.
+## Printers (已停产)
 
-## Filament (1kg spool) — 实际到手价
+| Model | 状态 | 原价 (USD) |
+|-------|------|-----------|
+| AnkerMake M5 | ❌ 停产 | $799 |
+| AnkerMake M5C | ❌ 停产 | $399 |
 
-| Type | China 到手 (¥) | China USD eq. | USA Amazon ($) | Markup |
-|------|---------------|---------------|----------------|--------|
-| PLA+ | — | — | 17.00 | — |
+## eufyMake（品牌继承者）
 
-> AnkerMake 耗材在中国大陆未正式销售。2025年已宣布停产3D打印机产品线，耗材在美国也在清库存阶段，品牌转为 eufyMake。仅剩 PLA+ 在 Amazon 有售（2kg装 $34，折合 $17/kg）。
+| Model | USA ($) | 类型 | 说明 |
+|-------|---------|------|------|
+| eufyMake E1 | 2,299–2,899 | UV 表面打印机 | 非 FDM，打印油墨到物体表面 |
+
+> eufyMake E1 是 UV 打印机，与传统 FDM 3D打印机属于完全不同的品类。
+> Kickstarter 早鸟价 ~$1,699。中国大陆未销售。
+> AnkerMake 3D 打印核心团队负责人已离开安克自行创业。
+
+## Filament（清库存）
+
+| Type | USA Amazon ($) | 说明 |
+|------|----------------|------|
+| PLA+ (2kg) | 34 (≈17/kg) | 仅 Amazon 有售，清库存 |
+
+> AnkerMake 耗材在中国大陆从未正式销售。美国仅剩少量库存在 Amazon 清货。
 
 ## Sources
-- China: 国内无售
+- [Anker discontinues FDM 3D printers](https://3dprint.com/319651/)
+- [eufyMake Official](https://www.eufymake.com/)
 - USA: https://www.amazon.com (清库存价)
